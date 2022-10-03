@@ -1,8 +1,9 @@
 # IQSpaceX
-SpaceX Launch Details App
+SpaceX Launch Details App by Jerry Van Zyl
 ## Description
 
 This is a small web application for displaying the details of SpaceX Launches.
+Demo URL - https://iqs-pace-x.vercel.app
 
 
 ## Features
