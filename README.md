@@ -22,7 +22,7 @@ Demo URL - https://iqs-pace-x.vercel.app
 
 ## Bug Report / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/HarshaVardhanNakkina/spacex-graphql-api/issues/new) by including your search query and the expected result.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/JerryVanZyliq/IQSpaceX/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/JerryVanZyliq/IQSpaceX/issues/new). Please include sample queries and their corresponding results.
 
